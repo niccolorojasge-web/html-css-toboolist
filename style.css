@@ -3,7 +3,9 @@
     .toboolist{ display: inline; 
     vertical-align: middle;}
     .task{background-color: blue;
-    color: white;}
-    .section{color: gray;}
+    color: white;
+text-align: center;}
+    .section{color: gray;
+    text-align: center}
 .blue{background-color: blue;
 color: white;}
