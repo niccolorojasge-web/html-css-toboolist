@@ -4,8 +4,38 @@
     vertical-align: middle;}
     .task{background-color: blue;
     color: white;
-text-align: center;}
-    .section{color: gray;
-    text-align: center}
+border: none;
+border-radius: 10%;}
+    .section {color: gray;
+        background-color: white
+        ;border-radius: 10%;
+        border: none;
+    }
 .blue{background-color: blue;
-color: white;}
+color: white;
+border: none;
+border-radius: 10%}
+.purple{background-color: blueviolet;
+color: white;
+border: none;
+border-radius: 10%}
+.green-light{background-color: greenyellow;
+color: white;
+border: none;
+border-radius: 10%}
+.arancio{background-color: orange;color: white;
+border: none;
+border-radius: 10%;}
+.fuxia{background-color: fuchsia;
+    color:white;
+border: none;
+border-radius: 10%;}
+.green{background-color: green;
+color: white;
+border:none;
+border-radius: 10%;}
+
+
+
+
+
