@@ -2,4 +2,6 @@
     vertical-align: middle;}
     .toboolist{ display: inline; 
     vertical-align: middle;}
-    
+    .task{background-color: blue;
+    color: white;}
+    .section{color: gray;}
